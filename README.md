@@ -1,0 +1,1 @@
+# spring4-hibernate4-maven
